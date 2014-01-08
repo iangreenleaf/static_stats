@@ -23,6 +23,8 @@ Right now, it's pretty hacky. Someday perhaps I will improve it.
 
 ## Access Control ##
 
+[Only I can see this](http://iangreenleaf-stats.s3-website-us-east-1.amazonaws.com/).
+
 I've restricted access to my results bucket by IP address. To change, edit the
 bucket policy and update the IP restriction. The policy should look like this:
 
